@@ -1,0 +1,515 @@
+11/02/2021 11:42:48 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+11/02/2021 11:42:48 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+11/02/2021 11:42:50 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/02/2021 11:42:50 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/02/2021 11:42:50 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/02/2021 11:42:50 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/02/2021 11:42:50 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/02/2021 11:42:53 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/02/2021 11:42:53 PM - NavigationPage - INFO: Element found with locator: //a[@class='navbar-brand header-logo'] and  locatorType: xpath
+11/02/2021 11:42:53 PM - NavigationPage - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+11/02/2021 11:42:53 PM - RegisterCoursesPage - INFO: Element found with locator: search-courses and  locatorType: id
+11/02/2021 11:42:53 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+11/02/2021 11:42:53 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+11/02/2021 11:42:53 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+11/02/2021 11:42:54 PM - RegisterCoursesPage - INFO: Element found with locator: enroll-button-top and  locatorType: id
+11/02/2021 11:42:58 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+11/02/2021 11:42:58 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@data-test='credit-card-name'] and  locatorType: xpath
+11/02/2021 11:42:58 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@data-test='credit-card-name'] locatorType: xpath
+11/02/2021 11:42:58 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода номера карты'] and  locatorType: xpath
+11/02/2021 11:42:58 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода номера карты'] locatorType: xpath
+11/02/2021 11:42:58 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='1234 1234 1234 1234'] and  locatorType: xpath
+11/02/2021 11:42:58 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='1234 1234 1234 1234'] locatorType: xpath
+11/02/2021 11:42:58 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода даты истечения срока'] and  locatorType: xpath
+11/02/2021 11:42:58 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода даты истечения срока'] locatorType: xpath
+11/02/2021 11:42:58 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='ММ / ГГ'] and  locatorType: xpath
+11/02/2021 11:42:58 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='ММ / ГГ'] locatorType: xpath
+11/02/2021 11:42:58 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода CVC-кода'] and  locatorType: xpath
+11/02/2021 11:42:58 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода CVC-кода'] locatorType: xpath
+11/02/2021 11:42:58 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='CVC'] and  locatorType: xpath
+11/02/2021 11:42:59 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='CVC'] locatorType: xpath
+11/02/2021 11:42:59 PM - RegisterCoursesPage - INFO: Element found with locator: billingStreetAddressLine1 and  locatorType: id
+11/02/2021 11:42:59 PM - RegisterCoursesPage - INFO: Sent data on element with locator: billingStreetAddressLine1 locatorType: id
+11/02/2021 11:42:59 PM - RegisterCoursesPage - INFO: Element found with locator: billingCity and  locatorType: id
+11/02/2021 11:42:59 PM - RegisterCoursesPage - INFO: Sent data on element with locator: billingCity locatorType: id
+11/02/2021 11:43:04 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(),'Buy Now $99')] and  locatorType: xpath
+11/02/2021 11:43:04 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(text(),'Buy Now $99')] locatorType: xpath
+11/02/2021 11:43:07 PM - RegisterCoursesPage - INFO: Element found with locator: //li[contains(text(),'The card was declined.')] and  locatorType: xpath
+11/02/2021 11:43:07 PM - RegisterCoursesPage - INFO: Element present with locator: //li[contains(text(),'The card was declined.')] locatorType: xpath
+11/02/2021 11:43:07 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+11/02/2021 11:43:07 PM - TestStatus - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+11/02/2021 11:43:07 PM - NavigationPage - INFO: Element found with locator: //a[@class='navbar-brand header-logo'] and  locatorType: xpath
+11/02/2021 11:43:07 PM - NavigationPage - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+11/02/2021 11:43:08 PM - RegisterCoursesPage - INFO: Element found with locator: search-courses and  locatorType: id
+11/02/2021 11:43:08 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+11/02/2021 11:43:08 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(text(),'Learn Python 3 from scratch')] and  locatorType: xpath
+11/02/2021 11:43:08 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(text(),'Learn Python 3 from scratch')] locatorType: xpath
+11/02/2021 11:43:09 PM - RegisterCoursesPage - INFO: Element found with locator: enroll-button-top and  locatorType: id
+11/02/2021 11:43:11 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+11/02/2021 11:43:12 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@data-test='credit-card-name'] and  locatorType: xpath
+11/02/2021 11:43:12 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@data-test='credit-card-name'] locatorType: xpath
+11/02/2021 11:43:12 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода номера карты'] and  locatorType: xpath
+11/02/2021 11:43:12 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода номера карты'] locatorType: xpath
+11/02/2021 11:43:12 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='1234 1234 1234 1234'] and  locatorType: xpath
+11/02/2021 11:43:12 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='1234 1234 1234 1234'] locatorType: xpath
+11/02/2021 11:43:12 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода даты истечения срока'] and  locatorType: xpath
+11/02/2021 11:43:12 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода даты истечения срока'] locatorType: xpath
+11/02/2021 11:43:12 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='ММ / ГГ'] and  locatorType: xpath
+11/02/2021 11:43:12 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='ММ / ГГ'] locatorType: xpath
+11/02/2021 11:43:12 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода CVC-кода'] and  locatorType: xpath
+11/02/2021 11:43:12 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода CVC-кода'] locatorType: xpath
+11/02/2021 11:43:12 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='CVC'] and  locatorType: xpath
+11/02/2021 11:43:13 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='CVC'] locatorType: xpath
+11/02/2021 11:43:13 PM - RegisterCoursesPage - INFO: Element found with locator: billingStreetAddressLine1 and  locatorType: id
+11/02/2021 11:43:13 PM - RegisterCoursesPage - INFO: Sent data on element with locator: billingStreetAddressLine1 locatorType: id
+11/02/2021 11:43:13 PM - RegisterCoursesPage - INFO: Element found with locator: billingCity and  locatorType: id
+11/02/2021 11:43:13 PM - RegisterCoursesPage - INFO: Sent data on element with locator: billingCity locatorType: id
+11/02/2021 11:43:18 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(),'Buy Now $99')] and  locatorType: xpath
+11/02/2021 11:43:18 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(text(),'Buy Now $99')] locatorType: xpath
+11/02/2021 11:43:21 PM - RegisterCoursesPage - ERROR: Element not found with locator: //li[contains(text(),'The card was declined.')] and  locatorType: xpath
+11/02/2021 11:43:21 PM - RegisterCoursesPage - INFO: Element not present with locator: //li[contains(text(),'The card was declined.')] locatorType: xpath
+11/02/2021 11:43:21 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Enrollment Failed Verification
+11/02/2021 11:43:21 PM - TestStatus - INFO: Screenshot save to directory: D:\Other\code\py_return\lets_kode_it\Letskodeit_Framework\base\../screenshots/Enrollment Failed Verification.1635885801612.png
+11/02/2021 11:43:21 PM - TestStatus - ERROR: test_invalidEnrollment ### TEST FAILED
+11/02/2021 11:43:28 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+11/02/2021 11:43:28 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+11/02/2021 11:43:29 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/02/2021 11:43:29 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/02/2021 11:43:29 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/02/2021 11:43:29 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/02/2021 11:43:29 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/02/2021 11:43:32 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/02/2021 11:43:32 PM - NavigationPage - INFO: Element found with locator: //img[@alt='n3g@mail.ru'] and  locatorType: xpath
+11/02/2021 11:43:32 PM - NavigationPage - INFO: Clicked on element with locator: //img[@alt='n3g@mail.ru'] locatorType: xpath
+11/02/2021 11:43:32 PM - LoginPage - INFO: Element found with locator: a[href='/sign_out'] and  locatorType: css
+11/02/2021 11:43:33 PM - LoginPage - INFO: Clicked on element with locator: a[href='/sign_out'] locatorType: css
+11/02/2021 11:43:33 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+11/02/2021 11:43:33 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+11/02/2021 11:43:34 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/02/2021 11:43:34 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/02/2021 11:43:34 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/02/2021 11:43:35 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/02/2021 11:43:35 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/02/2021 11:43:35 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/02/2021 11:43:35 PM - LoginPage - INFO: Element found with locator: //div[contains(text(),'Your email or password is incorrect')] and  locatorType: xpath
+11/02/2021 11:43:35 PM - LoginPage - INFO: Element present with locator: //div[contains(text(),'Your email or password is incorrect')] locatorType: xpath
+11/02/2021 11:43:38 PM - LoginPage - ERROR: Element not found with locator: Login and  locatorType: link
+11/02/2021 11:43:38 PM - LoginPage - ERROR: Cannot click on the element with locator: Login locatorType: link
+11/02/2021 11:43:38 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/02/2021 11:43:38 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/02/2021 11:43:38 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/02/2021 11:43:38 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/02/2021 11:43:38 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/02/2021 11:43:40 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/02/2021 11:43:40 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+11/02/2021 11:43:40 PM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+11/02/2021 11:43:40 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+11/02/2021 11:43:40 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+11/02/2021 11:43:40 PM - LoginPage - INFO: Element found with locator: //img[@alt='n3g@mail.ru'] and  locatorType: xpath
+11/02/2021 11:43:40 PM - LoginPage - INFO: Element present with locator: //img[@alt='n3g@mail.ru'] locatorType: xpath
+11/02/2021 11:43:40 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was successful
+11/02/2021 11:43:40 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+11/02/2021 11:44:34 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+11/02/2021 11:44:35 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+11/02/2021 11:44:36 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/02/2021 11:44:36 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/02/2021 11:44:36 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/02/2021 11:44:36 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/02/2021 11:44:36 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/02/2021 11:44:38 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/02/2021 11:44:38 PM - NavigationPage - INFO: Element found with locator: //a[@class='navbar-brand header-logo'] and  locatorType: xpath
+11/02/2021 11:44:38 PM - NavigationPage - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+11/02/2021 11:44:38 PM - RegisterCoursesPage - INFO: Element found with locator: search-courses and  locatorType: id
+11/02/2021 11:44:39 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+11/02/2021 11:44:39 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+11/02/2021 11:44:39 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+11/02/2021 11:44:39 PM - RegisterCoursesPage - INFO: Element found with locator: enroll-button-top and  locatorType: id
+11/02/2021 11:44:44 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+11/02/2021 11:44:44 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@data-test='credit-card-name'] and  locatorType: xpath
+11/02/2021 11:44:44 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@data-test='credit-card-name'] locatorType: xpath
+11/02/2021 11:44:44 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода номера карты'] and  locatorType: xpath
+11/02/2021 11:44:44 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода номера карты'] locatorType: xpath
+11/02/2021 11:44:44 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='1234 1234 1234 1234'] and  locatorType: xpath
+11/02/2021 11:44:44 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='1234 1234 1234 1234'] locatorType: xpath
+11/02/2021 11:44:44 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода даты истечения срока'] and  locatorType: xpath
+11/02/2021 11:44:44 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода даты истечения срока'] locatorType: xpath
+11/02/2021 11:44:44 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='ММ / ГГ'] and  locatorType: xpath
+11/02/2021 11:44:44 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='ММ / ГГ'] locatorType: xpath
+11/02/2021 11:44:44 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода CVC-кода'] and  locatorType: xpath
+11/02/2021 11:44:44 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода CVC-кода'] locatorType: xpath
+11/02/2021 11:44:44 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='CVC'] and  locatorType: xpath
+11/02/2021 11:44:45 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='CVC'] locatorType: xpath
+11/02/2021 11:44:45 PM - RegisterCoursesPage - INFO: Element found with locator: billingStreetAddressLine1 and  locatorType: id
+11/02/2021 11:44:45 PM - RegisterCoursesPage - INFO: Sent data on element with locator: billingStreetAddressLine1 locatorType: id
+11/02/2021 11:44:45 PM - RegisterCoursesPage - INFO: Element found with locator: billingCity and  locatorType: id
+11/02/2021 11:44:45 PM - RegisterCoursesPage - INFO: Sent data on element with locator: billingCity locatorType: id
+11/02/2021 11:44:50 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(),'Buy Now $99')] and  locatorType: xpath
+11/02/2021 11:44:50 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(text(),'Buy Now $99')] locatorType: xpath
+11/02/2021 11:44:52 PM - RegisterCoursesPage - INFO: Element found with locator: //li[contains(text(),'The card was declined.')] and  locatorType: xpath
+11/02/2021 11:44:52 PM - RegisterCoursesPage - INFO: Element present with locator: //li[contains(text(),'The card was declined.')] locatorType: xpath
+11/02/2021 11:44:52 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+11/02/2021 11:44:52 PM - TestStatus - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+11/02/2021 11:44:52 PM - NavigationPage - INFO: Element found with locator: //a[@class='navbar-brand header-logo'] and  locatorType: xpath
+11/02/2021 11:44:52 PM - NavigationPage - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+11/02/2021 11:44:54 PM - RegisterCoursesPage - INFO: Element found with locator: search-courses and  locatorType: id
+11/02/2021 11:44:55 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+11/02/2021 11:44:55 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(text(),'Learn Python 3 from scratch')] and  locatorType: xpath
+11/02/2021 11:44:55 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(text(),'Learn Python 3 from scratch')] locatorType: xpath
+11/02/2021 11:44:55 PM - RegisterCoursesPage - INFO: Element found with locator: enroll-button-top and  locatorType: id
+11/02/2021 11:44:58 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+11/02/2021 11:44:58 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@data-test='credit-card-name'] and  locatorType: xpath
+11/02/2021 11:44:58 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@data-test='credit-card-name'] locatorType: xpath
+11/02/2021 11:44:58 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода номера карты'] and  locatorType: xpath
+11/02/2021 11:44:58 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода номера карты'] locatorType: xpath
+11/02/2021 11:44:58 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='1234 1234 1234 1234'] and  locatorType: xpath
+11/02/2021 11:44:59 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='1234 1234 1234 1234'] locatorType: xpath
+11/02/2021 11:44:59 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода даты истечения срока'] and  locatorType: xpath
+11/02/2021 11:44:59 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода даты истечения срока'] locatorType: xpath
+11/02/2021 11:44:59 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='ММ / ГГ'] and  locatorType: xpath
+11/02/2021 11:44:59 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='ММ / ГГ'] locatorType: xpath
+11/02/2021 11:44:59 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода CVC-кода'] and  locatorType: xpath
+11/02/2021 11:44:59 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода CVC-кода'] locatorType: xpath
+11/02/2021 11:44:59 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='CVC'] and  locatorType: xpath
+11/02/2021 11:44:59 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='CVC'] locatorType: xpath
+11/02/2021 11:44:59 PM - RegisterCoursesPage - INFO: Element found with locator: billingStreetAddressLine1 and  locatorType: id
+11/02/2021 11:44:59 PM - RegisterCoursesPage - INFO: Sent data on element with locator: billingStreetAddressLine1 locatorType: id
+11/02/2021 11:44:59 PM - RegisterCoursesPage - INFO: Element found with locator: billingCity and  locatorType: id
+11/02/2021 11:44:59 PM - RegisterCoursesPage - INFO: Sent data on element with locator: billingCity locatorType: id
+11/02/2021 11:45:04 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(),'Buy Now $99')] and  locatorType: xpath
+11/02/2021 11:45:04 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(text(),'Buy Now $99')] locatorType: xpath
+11/02/2021 11:45:07 PM - RegisterCoursesPage - INFO: Element found with locator: //li[contains(text(),'The card was declined.')] and  locatorType: xpath
+11/02/2021 11:45:07 PM - RegisterCoursesPage - INFO: Element present with locator: //li[contains(text(),'The card was declined.')] locatorType: xpath
+11/02/2021 11:45:07 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+11/02/2021 11:45:07 PM - TestStatus - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+11/02/2021 11:45:14 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+11/02/2021 11:45:14 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+11/02/2021 11:45:15 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/02/2021 11:45:15 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/02/2021 11:45:15 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/02/2021 11:45:15 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/02/2021 11:45:15 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/02/2021 11:45:18 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/02/2021 11:45:18 PM - NavigationPage - INFO: Element found with locator: //img[@alt='n3g@mail.ru'] and  locatorType: xpath
+11/02/2021 11:45:18 PM - NavigationPage - INFO: Clicked on element with locator: //img[@alt='n3g@mail.ru'] locatorType: xpath
+11/02/2021 11:45:18 PM - LoginPage - INFO: Element found with locator: a[href='/sign_out'] and  locatorType: css
+11/02/2021 11:45:20 PM - LoginPage - INFO: Clicked on element with locator: a[href='/sign_out'] locatorType: css
+11/02/2021 11:45:20 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+11/02/2021 11:45:20 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+11/02/2021 11:45:21 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/02/2021 11:45:21 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/02/2021 11:45:21 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/02/2021 11:45:21 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/02/2021 11:45:21 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/02/2021 11:45:22 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/02/2021 11:45:22 PM - LoginPage - INFO: Element found with locator: //div[contains(text(),'Your email or password is incorrect')] and  locatorType: xpath
+11/02/2021 11:45:22 PM - LoginPage - INFO: Element present with locator: //div[contains(text(),'Your email or password is incorrect')] locatorType: xpath
+11/02/2021 11:45:25 PM - LoginPage - ERROR: Element not found with locator: Login and  locatorType: link
+11/02/2021 11:45:25 PM - LoginPage - ERROR: Cannot click on the element with locator: Login locatorType: link
+11/02/2021 11:45:25 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/02/2021 11:45:25 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/02/2021 11:45:25 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/02/2021 11:45:25 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/02/2021 11:45:25 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/02/2021 11:45:27 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/02/2021 11:45:27 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+11/02/2021 11:45:27 PM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+11/02/2021 11:45:27 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+11/02/2021 11:45:27 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+11/02/2021 11:45:27 PM - LoginPage - INFO: Element found with locator: //img[@alt='n3g@mail.ru'] and  locatorType: xpath
+11/02/2021 11:45:27 PM - LoginPage - INFO: Element present with locator: //img[@alt='n3g@mail.ru'] locatorType: xpath
+11/02/2021 11:45:27 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was successful
+11/02/2021 11:45:27 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+11/02/2021 11:50:30 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+11/02/2021 11:50:30 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+11/02/2021 11:50:33 PM - LoginPage - ERROR: Element not found with locator: email and  locatorType: id
+11/02/2021 11:50:33 PM - LoginPage - ERROR: Cannot send data on the element with locator: email locatorType: id
+11/02/2021 11:50:36 PM - LoginPage - ERROR: Element not found with locator: password and  locatorType: id
+11/02/2021 11:50:36 PM - LoginPage - ERROR: Cannot send data on the element with locator: password locatorType: id
+11/02/2021 11:50:39 PM - LoginPage - ERROR: Element not found with locator: commit and  locatorType: name
+11/02/2021 11:50:39 PM - LoginPage - ERROR: Cannot click on the element with locator: commit locatorType: name
+11/02/2021 11:50:42 PM - NavigationPage - ERROR: Element not found with locator: //a[@class='navbar-brand header-logo'] and  locatorType: xpath
+11/02/2021 11:50:42 PM - NavigationPage - ERROR: Cannot click on the element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+11/02/2021 11:50:45 PM - RegisterCoursesPage - INFO: Element found with locator: search-courses and  locatorType: id
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Cannot send data on the element with locator: search-courses locatorType: id
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Element not found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Cannot click on the element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Element not found with locator: enroll-button-top and  locatorType: id
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Cannot click on the element with locator: enroll-button-top locatorType: id
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Element not found with locator: //input[@data-test='credit-card-name'] and  locatorType: xpath
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Cannot send data on the element with locator: //input[@data-test='credit-card-name'] locatorType: xpath
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Element not found with locator: //iframe[@title='Защищенное окно для ввода номера карты'] and  locatorType: xpath
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Cannot switch to iframe with locator: //iframe[@title='Защищенное окно для ввода номера карты'] locatorType: xpath
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Element not found with locator: //input[@placeholder='1234 1234 1234 1234'] and  locatorType: xpath
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Cannot send data on the element with locator: //input[@placeholder='1234 1234 1234 1234'] locatorType: xpath
+11/02/2021 11:50:45 PM - NavigationPage - ERROR: Element not found with locator: //a[@class='navbar-brand header-logo'] and  locatorType: xpath
+11/02/2021 11:50:45 PM - NavigationPage - ERROR: Cannot click on the element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Element not found with locator: search-courses and  locatorType: id
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Cannot send data on the element with locator: search-courses locatorType: id
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Element not found with locator: //div[contains(text(),'Learn Python 3 from scratch')] and  locatorType: xpath
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Cannot click on the element with locator: //div[contains(text(),'Learn Python 3 from scratch')] locatorType: xpath
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Element not found with locator: enroll-button-top and  locatorType: id
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Cannot click on the element with locator: enroll-button-top locatorType: id
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Element not found with locator: //input[@data-test='credit-card-name'] and  locatorType: xpath
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Cannot send data on the element with locator: //input[@data-test='credit-card-name'] locatorType: xpath
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Element not found with locator: //iframe[@title='Защищенное окно для ввода номера карты'] and  locatorType: xpath
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Cannot switch to iframe with locator: //iframe[@title='Защищенное окно для ввода номера карты'] locatorType: xpath
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Element not found with locator: //input[@placeholder='1234 1234 1234 1234'] and  locatorType: xpath
+11/02/2021 11:50:45 PM - RegisterCoursesPage - ERROR: Cannot send data on the element with locator: //input[@placeholder='1234 1234 1234 1234'] locatorType: xpath
+11/02/2021 11:50:51 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+11/02/2021 11:50:51 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+11/02/2021 11:50:52 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Cannot send data on the element with locator: email locatorType: id
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Element not found with locator: password and  locatorType: id
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Cannot send data on the element with locator: password locatorType: id
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Element not found with locator: commit and  locatorType: name
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Cannot click on the element with locator: commit locatorType: name
+11/02/2021 11:50:52 PM - NavigationPage - ERROR: Element not found with locator: //img[@alt='n3g@mail.ru'] and  locatorType: xpath
+11/02/2021 11:50:52 PM - NavigationPage - ERROR: Cannot click on the element with locator: //img[@alt='n3g@mail.ru'] locatorType: xpath
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Element not found with locator: a[href='/sign_out'] and  locatorType: css
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Cannot click on the element with locator: a[href='/sign_out'] locatorType: css
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Element not found with locator: Login and  locatorType: link
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Cannot click on the element with locator: Login locatorType: link
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Element not found with locator: email and  locatorType: id
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Cannot send data on the element with locator: email locatorType: id
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Element not found with locator: password and  locatorType: id
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Cannot send data on the element with locator: password locatorType: id
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Element not found with locator: commit and  locatorType: name
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Cannot click on the element with locator: commit locatorType: name
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Element not found with locator: //div[contains(text(),'Your email or password is incorrect')] and  locatorType: xpath
+11/02/2021 11:50:52 PM - LoginPage - INFO: Element not present with locator: //div[contains(text(),'Your email or password is incorrect')] locatorType: xpath
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Element not found with locator: Login and  locatorType: link
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Cannot click on the element with locator: Login locatorType: link
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Element not found with locator: email and  locatorType: id
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Cannot send data on the element with locator: email locatorType: id
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Element not found with locator: password and  locatorType: id
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Cannot send data on the element with locator: password locatorType: id
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Element not found with locator: commit and  locatorType: name
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Cannot click on the element with locator: commit locatorType: name
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Failed to get page title
+11/02/2021 11:50:52 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title Verified
+11/02/2021 11:50:52 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+11/02/2021 11:50:52 PM - LoginPage - ERROR: Element not found with locator: //img[@alt='n3g@mail.ru'] and  locatorType: xpath
+11/02/2021 11:50:52 PM - LoginPage - INFO: Element not present with locator: //img[@alt='n3g@mail.ru'] locatorType: xpath
+11/02/2021 11:50:52 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Login was successful
+11/02/2021 11:50:52 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+11/02/2021 11:50:52 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+11/02/2021 11:51:32 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+11/02/2021 11:51:32 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+11/02/2021 11:51:33 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/02/2021 11:51:33 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/02/2021 11:51:33 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/02/2021 11:51:33 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/02/2021 11:51:33 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/02/2021 11:51:35 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/02/2021 11:51:35 PM - NavigationPage - INFO: Element found with locator: //a[@class='navbar-brand header-logo'] and  locatorType: xpath
+11/02/2021 11:51:35 PM - NavigationPage - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+11/02/2021 11:51:35 PM - RegisterCoursesPage - INFO: Element found with locator: search-courses and  locatorType: id
+11/02/2021 11:51:35 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+11/02/2021 11:51:35 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+11/02/2021 11:51:36 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+11/02/2021 11:51:36 PM - RegisterCoursesPage - INFO: Element found with locator: enroll-button-top and  locatorType: id
+11/02/2021 11:51:40 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+11/02/2021 11:51:40 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@data-test='credit-card-name'] and  locatorType: xpath
+11/02/2021 11:51:40 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@data-test='credit-card-name'] locatorType: xpath
+11/02/2021 11:51:40 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода номера карты'] and  locatorType: xpath
+11/02/2021 11:51:40 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода номера карты'] locatorType: xpath
+11/02/2021 11:51:40 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='1234 1234 1234 1234'] and  locatorType: xpath
+11/02/2021 11:51:40 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='1234 1234 1234 1234'] locatorType: xpath
+11/02/2021 11:51:40 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода даты истечения срока'] and  locatorType: xpath
+11/02/2021 11:51:40 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода даты истечения срока'] locatorType: xpath
+11/02/2021 11:51:40 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='ММ / ГГ'] and  locatorType: xpath
+11/02/2021 11:51:40 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='ММ / ГГ'] locatorType: xpath
+11/02/2021 11:51:41 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода CVC-кода'] and  locatorType: xpath
+11/02/2021 11:51:41 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода CVC-кода'] locatorType: xpath
+11/02/2021 11:51:41 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='CVC'] and  locatorType: xpath
+11/02/2021 11:51:41 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='CVC'] locatorType: xpath
+11/02/2021 11:51:41 PM - RegisterCoursesPage - INFO: Element found with locator: billingStreetAddressLine1 and  locatorType: id
+11/02/2021 11:51:41 PM - RegisterCoursesPage - INFO: Sent data on element with locator: billingStreetAddressLine1 locatorType: id
+11/02/2021 11:51:41 PM - RegisterCoursesPage - INFO: Element found with locator: billingCity and  locatorType: id
+11/02/2021 11:51:41 PM - RegisterCoursesPage - INFO: Sent data on element with locator: billingCity locatorType: id
+11/02/2021 11:51:46 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(),'Buy Now $99')] and  locatorType: xpath
+11/02/2021 11:51:46 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(text(),'Buy Now $99')] locatorType: xpath
+11/02/2021 11:51:49 PM - RegisterCoursesPage - INFO: Element found with locator: //li[contains(text(),'The card was declined.')] and  locatorType: xpath
+11/02/2021 11:51:49 PM - RegisterCoursesPage - INFO: Element present with locator: //li[contains(text(),'The card was declined.')] locatorType: xpath
+11/02/2021 11:51:49 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+11/02/2021 11:51:49 PM - TestStatus - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+11/02/2021 11:51:49 PM - NavigationPage - INFO: Element found with locator: //a[@class='navbar-brand header-logo'] and  locatorType: xpath
+11/02/2021 11:51:49 PM - NavigationPage - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+11/02/2021 11:51:51 PM - RegisterCoursesPage - INFO: Element found with locator: search-courses and  locatorType: id
+11/02/2021 11:51:51 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+11/02/2021 11:51:51 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(text(),'Learn Python 3 from scratch')] and  locatorType: xpath
+11/02/2021 11:51:51 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(text(),'Learn Python 3 from scratch')] locatorType: xpath
+11/02/2021 11:51:51 PM - RegisterCoursesPage - INFO: Element found with locator: enroll-button-top and  locatorType: id
+11/02/2021 11:51:54 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+11/02/2021 11:51:54 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@data-test='credit-card-name'] and  locatorType: xpath
+11/02/2021 11:51:55 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@data-test='credit-card-name'] locatorType: xpath
+11/02/2021 11:51:55 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода номера карты'] and  locatorType: xpath
+11/02/2021 11:51:55 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода номера карты'] locatorType: xpath
+11/02/2021 11:51:55 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='1234 1234 1234 1234'] and  locatorType: xpath
+11/02/2021 11:51:55 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='1234 1234 1234 1234'] locatorType: xpath
+11/02/2021 11:51:55 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода даты истечения срока'] and  locatorType: xpath
+11/02/2021 11:51:55 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода даты истечения срока'] locatorType: xpath
+11/02/2021 11:51:55 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='ММ / ГГ'] and  locatorType: xpath
+11/02/2021 11:51:55 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='ММ / ГГ'] locatorType: xpath
+11/02/2021 11:51:55 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода CVC-кода'] and  locatorType: xpath
+11/02/2021 11:51:55 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода CVC-кода'] locatorType: xpath
+11/02/2021 11:51:55 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='CVC'] and  locatorType: xpath
+11/02/2021 11:51:55 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='CVC'] locatorType: xpath
+11/02/2021 11:51:55 PM - RegisterCoursesPage - INFO: Element found with locator: billingStreetAddressLine1 and  locatorType: id
+11/02/2021 11:51:56 PM - RegisterCoursesPage - INFO: Sent data on element with locator: billingStreetAddressLine1 locatorType: id
+11/02/2021 11:51:56 PM - RegisterCoursesPage - INFO: Element found with locator: billingCity and  locatorType: id
+11/02/2021 11:51:56 PM - RegisterCoursesPage - INFO: Sent data on element with locator: billingCity locatorType: id
+11/02/2021 11:52:01 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(),'Buy Now $99')] and  locatorType: xpath
+11/02/2021 11:52:01 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(text(),'Buy Now $99')] locatorType: xpath
+11/02/2021 11:52:03 PM - RegisterCoursesPage - INFO: Element found with locator: //li[contains(text(),'The card was declined.')] and  locatorType: xpath
+11/02/2021 11:52:03 PM - RegisterCoursesPage - INFO: Element present with locator: //li[contains(text(),'The card was declined.')] locatorType: xpath
+11/02/2021 11:52:03 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+11/02/2021 11:52:03 PM - TestStatus - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+11/02/2021 11:52:10 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+11/02/2021 11:52:10 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+11/02/2021 11:52:11 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/02/2021 11:52:11 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/02/2021 11:52:11 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/02/2021 11:52:11 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/02/2021 11:52:11 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/02/2021 11:52:13 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/02/2021 11:52:13 PM - NavigationPage - INFO: Element found with locator: //img[@alt='n3g@mail.ru'] and  locatorType: xpath
+11/02/2021 11:52:13 PM - NavigationPage - INFO: Clicked on element with locator: //img[@alt='n3g@mail.ru'] locatorType: xpath
+11/02/2021 11:52:13 PM - LoginPage - INFO: Element found with locator: a[href='/sign_out'] and  locatorType: css
+11/02/2021 11:52:15 PM - LoginPage - INFO: Clicked on element with locator: a[href='/sign_out'] locatorType: css
+11/02/2021 11:52:15 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+11/02/2021 11:52:15 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+11/02/2021 11:52:16 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/02/2021 11:52:16 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/02/2021 11:52:16 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/02/2021 11:52:17 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/02/2021 11:52:17 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/02/2021 11:52:17 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/02/2021 11:52:17 PM - LoginPage - INFO: Element found with locator: //div[contains(text(),'Your email or password is incorrect')] and  locatorType: xpath
+11/02/2021 11:52:17 PM - LoginPage - INFO: Element present with locator: //div[contains(text(),'Your email or password is incorrect')] locatorType: xpath
+11/02/2021 11:52:20 PM - LoginPage - ERROR: Element not found with locator: Login and  locatorType: link
+11/02/2021 11:52:20 PM - LoginPage - ERROR: Cannot click on the element with locator: Login locatorType: link
+11/02/2021 11:52:20 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/02/2021 11:52:20 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/02/2021 11:52:20 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/02/2021 11:52:20 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/02/2021 11:52:20 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/02/2021 11:52:23 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/02/2021 11:52:23 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+11/02/2021 11:52:23 PM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+11/02/2021 11:52:23 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+11/02/2021 11:52:23 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+11/02/2021 11:52:23 PM - LoginPage - INFO: Element found with locator: //img[@alt='n3g@mail.ru'] and  locatorType: xpath
+11/02/2021 11:52:23 PM - LoginPage - INFO: Element present with locator: //img[@alt='n3g@mail.ru'] locatorType: xpath
+11/02/2021 11:52:23 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was successful
+11/02/2021 11:52:23 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+11/05/2021 04:51:10 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+11/05/2021 04:51:10 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+11/05/2021 04:51:12 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/05/2021 04:51:12 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/05/2021 04:51:12 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/05/2021 04:51:12 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/05/2021 04:51:12 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/05/2021 04:51:14 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/05/2021 04:51:15 PM - NavigationPage - INFO: Element found with locator: //a[@class='navbar-brand header-logo'] and  locatorType: xpath
+11/05/2021 04:51:15 PM - NavigationPage - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+11/05/2021 04:51:15 PM - RegisterCoursesPage - INFO: Element found with locator: search-courses and  locatorType: id
+11/05/2021 04:51:15 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+11/05/2021 04:51:15 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+11/05/2021 04:51:15 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+11/05/2021 04:51:18 PM - RegisterCoursesPage - INFO: Element found with locator: enroll-button-top and  locatorType: id
+11/05/2021 04:51:23 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+11/05/2021 04:51:23 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@data-test='credit-card-name'] and  locatorType: xpath
+11/05/2021 04:51:23 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@data-test='credit-card-name'] locatorType: xpath
+11/05/2021 04:51:23 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода номера карты'] and  locatorType: xpath
+11/05/2021 04:51:23 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода номера карты'] locatorType: xpath
+11/05/2021 04:51:23 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='1234 1234 1234 1234'] and  locatorType: xpath
+11/05/2021 04:51:24 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='1234 1234 1234 1234'] locatorType: xpath
+11/05/2021 04:51:24 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода даты истечения срока'] and  locatorType: xpath
+11/05/2021 04:51:24 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода даты истечения срока'] locatorType: xpath
+11/05/2021 04:51:24 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='ММ / ГГ'] and  locatorType: xpath
+11/05/2021 04:51:24 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='ММ / ГГ'] locatorType: xpath
+11/05/2021 04:51:24 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода CVC-кода'] and  locatorType: xpath
+11/05/2021 04:51:24 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода CVC-кода'] locatorType: xpath
+11/05/2021 04:51:24 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='CVC'] and  locatorType: xpath
+11/05/2021 04:51:24 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='CVC'] locatorType: xpath
+11/05/2021 04:51:24 PM - RegisterCoursesPage - INFO: Element found with locator: billingStreetAddressLine1 and  locatorType: id
+11/05/2021 04:51:25 PM - RegisterCoursesPage - INFO: Sent data on element with locator: billingStreetAddressLine1 locatorType: id
+11/05/2021 04:51:25 PM - RegisterCoursesPage - INFO: Element found with locator: billingCity and  locatorType: id
+11/05/2021 04:51:25 PM - RegisterCoursesPage - INFO: Sent data on element with locator: billingCity locatorType: id
+11/05/2021 04:51:30 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(),'Buy Now $99')] and  locatorType: xpath
+11/05/2021 04:51:30 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(text(),'Buy Now $99')] locatorType: xpath
+11/05/2021 04:51:32 PM - RegisterCoursesPage - INFO: Element found with locator: //li[contains(text(),'The card was declined.')] and  locatorType: xpath
+11/05/2021 04:51:32 PM - RegisterCoursesPage - INFO: Element present with locator: //li[contains(text(),'The card was declined.')] locatorType: xpath
+11/05/2021 04:51:32 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+11/05/2021 04:51:32 PM - TestStatus - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+11/05/2021 04:51:32 PM - NavigationPage - INFO: Element found with locator: //a[@class='navbar-brand header-logo'] and  locatorType: xpath
+11/05/2021 04:51:32 PM - NavigationPage - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+11/05/2021 04:51:34 PM - RegisterCoursesPage - INFO: Element found with locator: search-courses and  locatorType: id
+11/05/2021 04:51:34 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+11/05/2021 04:51:34 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(text(),'Learn Python 3 from scratch')] and  locatorType: xpath
+11/05/2021 04:51:34 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(text(),'Learn Python 3 from scratch')] locatorType: xpath
+11/05/2021 04:51:35 PM - RegisterCoursesPage - INFO: Element found with locator: enroll-button-top and  locatorType: id
+11/05/2021 04:51:38 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+11/05/2021 04:51:38 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@data-test='credit-card-name'] and  locatorType: xpath
+11/05/2021 04:51:39 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@data-test='credit-card-name'] locatorType: xpath
+11/05/2021 04:51:39 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода номера карты'] and  locatorType: xpath
+11/05/2021 04:51:39 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода номера карты'] locatorType: xpath
+11/05/2021 04:51:39 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='1234 1234 1234 1234'] and  locatorType: xpath
+11/05/2021 04:51:39 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='1234 1234 1234 1234'] locatorType: xpath
+11/05/2021 04:51:39 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода даты истечения срока'] and  locatorType: xpath
+11/05/2021 04:51:39 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода даты истечения срока'] locatorType: xpath
+11/05/2021 04:51:39 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='ММ / ГГ'] and  locatorType: xpath
+11/05/2021 04:51:39 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='ММ / ГГ'] locatorType: xpath
+11/05/2021 04:51:39 PM - RegisterCoursesPage - INFO: Element found with locator: //iframe[@title='Защищенное окно для ввода CVC-кода'] and  locatorType: xpath
+11/05/2021 04:51:39 PM - RegisterCoursesPage - INFO: Switch to iframe with locator: //iframe[@title='Защищенное окно для ввода CVC-кода'] locatorType: xpath
+11/05/2021 04:51:39 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@placeholder='CVC'] and  locatorType: xpath
+11/05/2021 04:51:39 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@placeholder='CVC'] locatorType: xpath
+11/05/2021 04:51:39 PM - RegisterCoursesPage - INFO: Element found with locator: billingStreetAddressLine1 and  locatorType: id
+11/05/2021 04:51:40 PM - RegisterCoursesPage - INFO: Sent data on element with locator: billingStreetAddressLine1 locatorType: id
+11/05/2021 04:51:40 PM - RegisterCoursesPage - INFO: Element found with locator: billingCity and  locatorType: id
+11/05/2021 04:51:40 PM - RegisterCoursesPage - INFO: Sent data on element with locator: billingCity locatorType: id
+11/05/2021 04:51:45 PM - RegisterCoursesPage - INFO: Element found with locator: //button[contains(text(),'Buy Now $99')] and  locatorType: xpath
+11/05/2021 04:51:45 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[contains(text(),'Buy Now $99')] locatorType: xpath
+11/05/2021 04:51:47 PM - RegisterCoursesPage - INFO: Element found with locator: //li[contains(text(),'The card was declined.')] and  locatorType: xpath
+11/05/2021 04:51:47 PM - RegisterCoursesPage - INFO: Element present with locator: //li[contains(text(),'The card was declined.')] locatorType: xpath
+11/05/2021 04:51:47 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+11/05/2021 04:51:47 PM - TestStatus - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+11/05/2021 04:51:54 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+11/05/2021 04:51:54 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+11/05/2021 04:51:55 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/05/2021 04:51:55 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/05/2021 04:51:55 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/05/2021 04:51:55 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/05/2021 04:51:55 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/05/2021 04:51:57 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/05/2021 04:51:57 PM - NavigationPage - INFO: Element found with locator: //img[@alt='n3g@mail.ru'] and  locatorType: xpath
+11/05/2021 04:51:58 PM - NavigationPage - INFO: Clicked on element with locator: //img[@alt='n3g@mail.ru'] locatorType: xpath
+11/05/2021 04:51:58 PM - LoginPage - INFO: Element found with locator: a[href='/sign_out'] and  locatorType: css
+11/05/2021 04:51:59 PM - LoginPage - INFO: Clicked on element with locator: a[href='/sign_out'] locatorType: css
+11/05/2021 04:51:59 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+11/05/2021 04:51:59 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+11/05/2021 04:52:00 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/05/2021 04:52:00 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/05/2021 04:52:00 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/05/2021 04:52:00 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/05/2021 04:52:00 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/05/2021 04:52:01 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/05/2021 04:52:01 PM - LoginPage - INFO: Element found with locator: //div[contains(text(),'Your email or password is incorrect')] and  locatorType: xpath
+11/05/2021 04:52:01 PM - LoginPage - INFO: Element present with locator: //div[contains(text(),'Your email or password is incorrect')] locatorType: xpath
+11/05/2021 04:52:04 PM - LoginPage - ERROR: Element not found with locator: Login and  locatorType: link
+11/05/2021 04:52:04 PM - LoginPage - ERROR: Cannot click on the element with locator: Login locatorType: link
+11/05/2021 04:52:04 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/05/2021 04:52:04 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/05/2021 04:52:04 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/05/2021 04:52:04 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/05/2021 04:52:04 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/05/2021 04:52:06 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/05/2021 04:52:06 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+11/05/2021 04:52:06 PM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+11/05/2021 04:52:06 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+11/05/2021 04:52:06 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+11/05/2021 04:52:06 PM - LoginPage - INFO: Element found with locator: //img[@alt='n3g@mail.ru'] and  locatorType: xpath
+11/05/2021 04:52:06 PM - LoginPage - INFO: Element present with locator: //img[@alt='n3g@mail.ru'] locatorType: xpath
+11/05/2021 04:52:06 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was successful
+11/05/2021 04:52:06 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL

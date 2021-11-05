@@ -1,0 +1,38 @@
+11/05/2021 04:45:18 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+11/05/2021 04:45:18 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+11/05/2021 04:45:20 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/05/2021 04:45:20 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/05/2021 04:45:20 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/05/2021 04:45:20 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/05/2021 04:45:20 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/05/2021 04:45:22 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/05/2021 04:45:22 PM - NavigationPage - INFO: Element found with locator: //img[@alt='n3g@mail.ru'] and  locatorType: xpath
+11/05/2021 04:45:22 PM - NavigationPage - INFO: Clicked on element with locator: //img[@alt='n3g@mail.ru'] locatorType: xpath
+11/05/2021 04:45:22 PM - LoginPage - INFO: Element found with locator: a[href='/sign_out'] and  locatorType: css
+11/05/2021 04:45:25 PM - LoginPage - INFO: Clicked on element with locator: a[href='/sign_out'] locatorType: css
+11/05/2021 04:45:25 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
+11/05/2021 04:45:25 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+11/05/2021 04:45:27 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/05/2021 04:45:27 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/05/2021 04:45:27 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/05/2021 04:45:27 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/05/2021 04:45:27 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/05/2021 04:45:28 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/05/2021 04:45:28 PM - LoginPage - INFO: Element found with locator: //div[contains(text(),'Your email or password is incorrect')] and  locatorType: xpath
+11/05/2021 04:45:28 PM - LoginPage - INFO: Element present with locator: //div[contains(text(),'Your email or password is incorrect')] locatorType: xpath
+11/05/2021 04:45:31 PM - LoginPage - ERROR: Element not found with locator: Login and  locatorType: link
+11/05/2021 04:45:31 PM - LoginPage - ERROR: Cannot click on the element with locator: Login locatorType: link
+11/05/2021 04:45:31 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+11/05/2021 04:45:31 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+11/05/2021 04:45:31 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+11/05/2021 04:45:31 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+11/05/2021 04:45:31 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
+11/05/2021 04:45:34 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+11/05/2021 04:45:34 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+11/05/2021 04:45:34 PM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+11/05/2021 04:45:34 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+11/05/2021 04:45:34 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verified
+11/05/2021 04:45:34 PM - LoginPage - INFO: Element found with locator: //img[@alt='n3g@mail.ru'] and  locatorType: xpath
+11/05/2021 04:45:34 PM - LoginPage - INFO: Element present with locator: //img[@alt='n3g@mail.ru'] locatorType: xpath
+11/05/2021 04:45:34 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was successful
+11/05/2021 04:45:34 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
